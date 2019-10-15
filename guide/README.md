@@ -6,7 +6,7 @@
  - [One of our official manifests, for the rom and character you are replacing](../manifests)
 
 ### Creating the play-as ZOBJ
-Download the `manifest file` that corresponds to the rom and character you are replacing and load it into `zzplayas`. You can find them in the `manifests` directory of this repository.
+Download the `manifest file` that corresponds to the game and character you are replacing and load it into `zzplayas`. You can find them in the `manifests` directory of this repository.
 
 Now select the `...` next to `Target`. This will prompt you to select a rom. __Do not select a rom.__ Instead, select `.zobj` from the `File Type` selection menu. Now we are able to navigate to `skin.zobj`. Select it and click `Open`.
 
